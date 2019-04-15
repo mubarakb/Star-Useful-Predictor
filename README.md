@@ -1,4 +1,5 @@
 # Star-Useful-Predictor
-Predicting star rating and usefulness with review text 
+Predicting your star rating and whether your review will be useful based on the review you leave 
 
 By: Mubarak Bajwa
+
