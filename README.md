@@ -1,6 +1,7 @@
 # Star-Useful-Predictor
 
-Predicting your star rating & whether your review will be useful based on the review you leave.
+Predicting a star rating based on your review.
+Predicitng whether the review you leave will be considered useful by the community. 
 
 The problem:
 
