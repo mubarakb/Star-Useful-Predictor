@@ -5,9 +5,11 @@ Predicitng whether the review you leave will be considered useful by the communi
 
 The problem:
 
+
+
 How:
 
-Data EDA:
+Data:
 
 Show Final predictor:
 
